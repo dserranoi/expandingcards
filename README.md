@@ -1,5 +1,7 @@
-# expandingcards
-Expanding Cards is a small project where I play around with some HTML, CSS and JS. No Frameworks 
+# Name
+Expanding Cards
+# Description
+Is a small project where I play around with some HTML, CSS and JS. No Frameworks 
 
 This project helps me to implement and boost my skills on 
 CSS
